@@ -690,29 +690,29 @@
 			<RunwayStart end="SECONDARY" lat="34.97906193137169" lon="126.38288274407387" alt="12.64900000000000" heading="359.72875976562500"/>
 		</Runway>
 		<Jetway gateName="GATE" parkingNumber="15" suffix="NONE">
-			<SceneryObject lat="34.99361861497164" lon="126.38695433735847" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-68.291016" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<SceneryObject lat="34.99360348880960" lon="126.38688467876497" alt="-0.06916585332245" pitch="0.000000" bank="0.000000" heading="-68.291016" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
 			<!--SceneryObject name: Jetway_Link-->
-			<SceneryObject lat="34.99363034963608" lon="126.38730481266975" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-2.373047" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<SceneryObject lat="34.99361177801570" lon="126.38729715481411" alt="-0.04118915643594" pitch="0.000000" bank="0.000000" heading="-2.373047" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
 		<Jetway gateName="GATE" parkingNumber="16" suffix="NONE">
-			<SceneryObject lat="34.99296147376299" lon="126.38695523142815" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.202640" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<SceneryObject lat="34.99291177537873" lon="126.38691919143767" alt="-0.05096235454248" pitch="0.000000" bank="0.000000" heading="-70.202640" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
 			<!--SceneryObject name: Jetway_Link-->
-			<SceneryObject lat="34.99296683818102" lon="126.38732179999352" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-1.032715" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<SceneryObject lat="34.99292429168836" lon="126.38730602243386" alt="-0.11112852568705" pitch="0.000000" bank="0.000000" heading="-1.032715" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
 		<Jetway gateName="GATE" parkingNumber="17" suffix="NONE">
-			<SceneryObject lat="34.99427575618029" lon="126.38694360852242" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-67.346190" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<SceneryObject lat="34.99427945754156" lon="126.38689552329835" alt="-0.11130249686677" pitch="0.000000" bank="0.000000" heading="-67.346190" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
 			<!--SceneryObject name: Jetway_Link-->
-			<SceneryObject lat="34.99428749084473" lon="126.38729408383369" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-2.373047" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<SceneryObject lat="34.99429706052150" lon="126.38729004779896" alt="0.01138397922534" pitch="0.000000" bank="0.000000" heading="-2.373047" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
