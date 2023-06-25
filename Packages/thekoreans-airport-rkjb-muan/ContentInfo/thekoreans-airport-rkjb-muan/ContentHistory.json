@@ -1,0 +1,10 @@
+{
+  "package-name": "thekoreans-airport-rkjb-muan",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "RKJB",
+      "revision": 1
+    }
+  ]
+}
