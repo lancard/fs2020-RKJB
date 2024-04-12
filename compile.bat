@@ -1,1 +1,0 @@
-"c:\MSFS SDK\Tools\bin\fspackagetool.exe" RKJB.xml

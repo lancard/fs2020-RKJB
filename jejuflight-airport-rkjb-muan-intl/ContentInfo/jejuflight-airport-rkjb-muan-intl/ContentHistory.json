@@ -1,0 +1,10 @@
+{
+  "package-name": "jejuflight-airport-rkjb-muan-intl",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "RKJB",
+      "revision": 1
+    }
+  ]
+}
